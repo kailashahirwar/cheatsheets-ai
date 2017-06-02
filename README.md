@@ -1,7 +1,7 @@
 # cheatsheets-ai
 ## Essential Cheat Sheets for deep learning and machine learning researchers
 - [1.Keras](#keras)
-- [2.Neural Networks Zoo](neural networks zoo)
+- [2.Neural Networks Zoo](neural%20networks%20zoo)
 - [3.Numpy](#numpy)
 - [4.Pandas](#pandas)
 - [5.Scipy](#scipy)
