@@ -16,6 +16,6 @@ Essential Cheat Sheets for deep learning and machine learning researchers
   - 6.Scikit-learn
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Scikit%20Learn.png)
   - 7.Tensorflow
-  ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/PDFs/Tensorflow%20Cheat%20Sheet.pdf)
+  ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Tensorflow%20Cheat%20Sheet.pdf)
   - 8.Matplotlib
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Matplotlib.png)
