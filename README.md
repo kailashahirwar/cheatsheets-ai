@@ -1,20 +1,20 @@
 # cheatsheets-ai
 Essential Cheat Sheets for deep learning and machine learning researchers
 
-  - Keras
+  - 1.Keras
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Keras.jpg)
-  - Neural Networks Zoo<br>
+  - 2.Neural Networks Zoo
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Neural%20Networks%20Zoo.png)
-  - Numpy
+  - 3.Numpy
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Numpy.png)
-  - Scipy
+  - 4.Scipy
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Scipy.png)
-  - Pandas
+  - 5.Pandas
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Pandas-1.jpg)
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Pandas-2.jpg)
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Pandas-3.png)
-  - Scikit-learn
+  - 6.Scikit-learn
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Scikit%20Learn.png)
-  - Matplotlib
-  - Deep Learning Cheat Sheet
-  ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Deep Learning Cheat Sheet Hacker Noon.pdf)
+  - 7.Matplotlib
+  - 8.ggplot2
+  ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/PDFs/ggplot2_Cheat_Sheet.pdf)
