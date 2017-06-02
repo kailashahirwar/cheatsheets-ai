@@ -3,7 +3,7 @@ Essential Cheat Sheets for deep learning and machine learning researchers
 
   - Keras
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Keras.jpg)
-  - Neural Networks Zoo
+  - Neural Networks Zoo<br>
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Neural Networks Zoo.png)
   - Numpy
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Numpy.png)
