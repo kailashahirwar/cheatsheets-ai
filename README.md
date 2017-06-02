@@ -14,7 +14,7 @@ Essential Cheat Sheets for deep learning and machine learning researchers
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Pandas-2.jpg)
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Pandas-3.png)
   - Scikit-learn
-  ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Scikit Learn.png)
+  ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Scikit%20Learn.png)
   - Matplotlib
   - Deep Learning Cheat Sheet
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Deep Learning Cheat Sheet Hacker Noon.pdf)
