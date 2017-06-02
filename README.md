@@ -1,14 +1,14 @@
 # cheatsheets-ai
 ## Essential Cheat Sheets for deep learning and machine learning researchers
-- [1.Keras](#keras)
-- [2.Neural Networks Zoo](neural%20networks%20zoo)
-- [3.Numpy](#numpy)
-- [4.Pandas](#pandas)
-- [5.Scipy](#scipy)
-- [6.Scikit-learn](#scikit-learn)
-- [7.Tensorflow](#tensorflow)
-- [8.matplotlib](#matplotlib)
-- [9.ggplot2](#ggplot2)
+- [1.Keras](#1keras)
+- [2.Neural Networks Zoo](#2neural%20networks%20zoo)
+- [3.Numpy](#3numpy)
+- [4.Pandas](#4pandas)
+- [5.Scipy](#5scipy)
+- [6.Scikit-learn](#6scikit-learn)
+- [7.Tensorflow](#7tensorflow)
+- [8.matplotlib](#8matplotlib)
+- [9.ggplot2](#9ggplot2)
 
 ### 1.Keras
   ![](https://github.com/LittleHeap/cheatsheets-ai/blob/master/Keras.jpg)
