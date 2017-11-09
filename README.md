@@ -15,6 +15,8 @@ Essential Cheat Sheets for deep learning and machine learning researchers
   - [**ggplot2-1**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/ggplot2-1.jpg)<br>
   - [**ggplot2-2**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/ggplot2-2.jpg)<br>
   - [**PySpark**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PySpark.jpg)<br>
+  - [**PySpark-RDD**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PySpark-RDD.png)<br>
+  - [**PySpark-SQL**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PySpark-SQL.png)<br>
   - [**R Studio(dplyr & tidyr)-1**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Data%20Wrangling%20with%20dplyr%20and%20tidyr%20-%20R%20Studio-1.jpg)<br>
   - [**R Studio(dplyr & tidyr)-2**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Data%20Wrangling%20with%20dplyr%20and%20tidyr%20-%20R%20Studio-2.jpg)<br>
   - [**Neural Network Cells**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Neural%20Network%20Cells.png)<br>
