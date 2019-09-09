@@ -2,6 +2,12 @@
 
 Essential Cheat Sheets for deep learning and machine learning researchers
     
+Website: https://aicheatsheets.com
+
+Medium Article: https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+
+Reddit Thread: https://www.reddit.com/r/Python/comments/cyslju/ai_cheatsheets_now_learn_tensorflow_keras_pytorch/?utm_source=share&utm_medium=web2x
+    
   - [**Tensorflow**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf)<br>
   - [**Keras**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Keras.jpg)<br>
   - [**Neural Networks Zoo**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Neural%20Networks%20Zoo.png)<br>
@@ -28,5 +34,5 @@ Essential Cheat Sheets for deep learning and machine learning researchers
   - [**Dask4**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Dask4.png)
   - [**All Cheat Sheets(PDF)**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/All%20Cheat%20Sheets.pdf)<br>
   
-[**https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5**](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+[**Medium Article**](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
   
