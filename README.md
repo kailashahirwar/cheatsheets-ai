@@ -4,9 +4,20 @@ Essential Cheat Sheets for deep learning and machine learning researchers
     
 Website: https://aicheatsheets.com
 
+![website-1](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/website.png)
+
+![website-2](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/website-2.png)
+
+![tensorflow-1](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/tensorflow-1.png)
+
 Medium Article: https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 
+![medium-article](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/medium-article.png)
+
 Reddit Thread: https://www.reddit.com/r/Python/comments/cyslju/ai_cheatsheets_now_learn_tensorflow_keras_pytorch/?utm_source=share&utm_medium=web2x
+
+![reddit-post](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/reddit-post.png)
+  
     
   - [**Tensorflow**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf)<br>
   - [**Keras**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Keras.jpg)<br>
@@ -18,6 +29,7 @@ Reddit Thread: https://www.reddit.com/r/Python/comments/cyslju/ai_cheatsheets_no
   - [**Pandas-3**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Pandas-3.png)<br>
   - [**Scikit-learn**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Scikit%20Learn.png)<br>
   - [**Matplotlib**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Matplotlib.png)<br>
+  - [**Seaborn**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/seaborn.png)<br>
   - [**ggplot2-1**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/ggplot2-1.jpg)<br>
   - [**ggplot2-2**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/ggplot2-2.jpg)<br>
   - [**PySpark**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PySpark.jpg)<br>
