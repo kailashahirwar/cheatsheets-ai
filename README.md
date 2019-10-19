@@ -1,6 +1,8 @@
-# cheatsheets-ai
+# AI Cheatsheets
 
-Essential Cheat Sheets for deep learning and machine learning researchers
+Essential Cheat Sheets for deep learning and machine learning engineers
+
+Website: https://aicheatsheets.com
 
 <p align="center">
   <img width="50%" height="auto" src="Triplebyte_logo.png">
@@ -9,13 +11,11 @@ Essential Cheat Sheets for deep learning and machine learning researchers
 Looking for a new job? Take Triplebyte’s <a href="https://triplebyte.com/a/ZYAvvEc/d">quiz</a> and get a job at top companies like Adobe, Dropbox and Instacart!
 </p>
 
-Website: https://aicheatsheets.com
-
 ![website-1](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/website.png)
 
 ![website-2](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/website-2.png)
 
-![tensorflow-1](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/tensorflow-1.png)
+![tensorflow-1](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/tensorflow1.png)
 
 Medium Article: https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
 
@@ -55,3 +55,9 @@ Reddit Thread: https://www.reddit.com/r/Python/comments/cyslju/ai_cheatsheets_no
   
 [**Medium Article**](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
   
+License
+-----------------
+
+[MIT License](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/LICENSE.md)
+
+[AI Cheatsheets](https://aicheatsheets.com)
