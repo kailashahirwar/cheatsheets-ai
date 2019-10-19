@@ -1,7 +1,14 @@
 # cheatsheets-ai
 
 Essential Cheat Sheets for deep learning and machine learning researchers
-    
+
+<p align="center">
+  <img width="auto" height="300" src="Triplebyte_logo.png">
+</p>
+<p align="center">
+Looking for a new job? Take Triplebyte’s <a href="https://triplebyte.com/a/ZYAvvEc/d">quiz</a> and get a job at top companies like Adobe, Dropbox and Instacart!
+</p>
+
 Website: https://aicheatsheets.com
 
 ![website-1](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/screenshots/website.png)
